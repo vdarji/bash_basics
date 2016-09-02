@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "You are happy?"
+echo "Is today weekend?"
 read answer
 
 if [ "$answer" = "yes" ]; then
